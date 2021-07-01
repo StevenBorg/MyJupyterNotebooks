@@ -1,0 +1,2 @@
+,Collection,PatientID,PatientName,PatientSex,StudyInstanceUID,StudyDate,StudyDescription,PatientAge,SeriesCount
+0,Lung Phantom,4482356,ASSURANCE^QUALITY,M,1.2.840.113745.101000.1186002.40721.8111.13846623,2015-07-24,CT RESEARCH EXAM,111Y,109
